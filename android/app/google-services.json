@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "855885551013",
+    "firebase_url": "https://pug-pug-pug.firebaseio.com",
+    "project_id": "pug-pug-pug",
+    "storage_bucket": "pug-pug-pug.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855885551013:android:1af8aab042d2b301",
+        "android_client_info": {
+          "package_name": "today.abe.butter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855885551013-g0anauc0dg2ilrldca56oii6pmssenpe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRwvjLw6QP9yaL2MAsIV0dNesUHtQHm-8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
